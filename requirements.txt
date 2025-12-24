@@ -4,3 +4,4 @@ numpy
 matplotlib
 fpdf
 streamlit
+google-generativeai
