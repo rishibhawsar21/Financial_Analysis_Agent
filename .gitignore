@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+myenv/
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Reports
+reports/*.pdf
+reports/*.png
+
+# IDE
+.vscode/
+.idea/
